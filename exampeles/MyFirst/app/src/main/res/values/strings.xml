@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirst</string>
+    <string name="button1">click 1</string>
+    <string name="button2">XXXX2</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+</resources>

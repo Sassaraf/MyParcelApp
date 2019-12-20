@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257857790693",
+    "firebase_url": "https://myparcelapp.firebaseio.com",
+    "project_id": "myparcelapp",
+    "storage_bucket": "myparcelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257857790693:android:c7a448bb9cdc6833caea0c",
+        "android_client_info": {
+          "package_name": "com.example.myparcelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257857790693-s5pk754hleol0thj1j2phjg9n25kgm0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myparcelapp",
+            "certificate_hash": "805f139d42ca8665cb3bbbf8ecb124303e0e7891"
+          }
+        },
+        {
+          "client_id": "257857790693-7h0dgsdd4ceb4cdtga2dufkd3g3mvo1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNNp3Y_dnbo1zwjEOmTrrbzRGPLj4_OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257857790693-7h0dgsdd4ceb4cdtga2dufkd3g3mvo1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
